@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TestTask
+
+  Created by Polina Tolstenkova on 13.09.2023.
+  
+*/
+
+// MARK: - Main
+
+"open_from_top" = "Open from top";
+"open_full" = "Open full";
+"lock" = "Lock";
+"unlock" = "Unlock";
